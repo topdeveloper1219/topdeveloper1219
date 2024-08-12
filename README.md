@@ -6,7 +6,7 @@ I'm a senior full-stack developer with a passion for building decentralized appl
 ## Skills
 - **Languages**: JavaScript, Python, PHP
 - **Frameworks**: React, Node.js, Express
-- **Blockchain**: Ethereum, Solana, Hyperledger
+
 
 ## Projects
 - [Project One](https://github.com/yourusername/project-one): A decentralized finance application.
