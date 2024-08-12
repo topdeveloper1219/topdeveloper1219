@@ -1,10 +1,10 @@
-# Hello, I'm Kawano Yasuhiko 👋
+# Hello, I'm Honda Kanjiro 👋
 
 ## About Me
-I'm a senior blockchain and web developer with a passion for building decentralized applications and innovative web solutions.
+I'm a senior full-stack developer with a passion for building decentralized applications and innovative web solutions.
 
 ## Skills
-- **Languages**: JavaScript, Python, Solidity, Rust
+- **Languages**: JavaScript, Python, PHP
 - **Frameworks**: React, Node.js, Express
 - **Blockchain**: Ethereum, Solana, Hyperledger
 
@@ -13,13 +13,13 @@ I'm a senior blockchain and web developer with a passion for building decentrali
 - [Project Two](https://github.com/yourusername/project-two): A web application for tracking crypto prices.
 
 ## Interests
-- Exploring new blockchain technologies
+- Exploring new software technologies
 - Contributing to open-source projects
 - Learning about AI and machine learning
 
 ## Contact
-- Email: yasuhikokawano000@gmail.com
-- Discord: BE@ST
+- Email: kanjirohonda@gmail.com
+- Discord: Honda
 <!---
 CryptoNinja1205/CryptoNinja1205 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
