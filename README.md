@@ -18,8 +18,8 @@ I'm a senior full-stack developer with a passion for building decentralized appl
 - Learning about AI and machine learning
 
 ## Contact
-- Email: kanjirohonda@gmail.com
-- Discord: Honda
+- Email: topdeveloper1219@gmail.com
+- Discord: GentleMan
 <!---
 CryptoNinja1205/CryptoNinja1205 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
