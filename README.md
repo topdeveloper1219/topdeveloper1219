@@ -3,8 +3,8 @@
 ###
 <h3>WHO AM I ?<br>
 Talented and experienced Full stack developer with 7+ years of experience executing with a lot of diverse skills. Experience has taught me to take accessibility and responsiveness seriously, and I am excited to continue my career at Thrive Web Designs with a focus on making WordPress site developments easily accessible, completely responsive, and intuitive for users.
-So if you hire 
-![Uploading image.png…]()
+Let’s connect to explore how my skills can help elevate your projects and achieve your goals. I’m excited about the possibility of working together to create something extraordinary!<br>
+<b>Good Luck</b>
 </h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="70" alt="javascript logo"  />
