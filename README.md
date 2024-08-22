@@ -1,7 +1,7 @@
 <h2 align="left">Welcome to Ghost's github</h2>
 
 ###
-<h3>WHO AM I ?
+<h3>WHO AM I ?<br>
 Talented and experienced Full stack developer with 7+ years of experience executing with a lot of diverse skills. Experience has taught me to take accessibility and responsiveness seriously, and I am excited to continue my career at Thrive Web Designs with a focus on making WordPress site developments easily accessible, completely responsive, and intuitive for users.
 So if you hire 
 ![Uploading image.png…]()
