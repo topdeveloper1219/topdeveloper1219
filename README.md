@@ -2,11 +2,7 @@
 
 ###
 
-<img align="left" height="271" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<h4 align="left">WHO AM I ?<br><br>Talented and experienced Full stack developer with 7+ years of experience executing with a lot of diverse skills. Experience has taught me to take accessibility and responsiveness seriously, and I am excited to continue my career at Thrive Web Designs with a focus on making WordPress site developments easily accessible, completely responsive, and intuitive for users.<br>I see a tremendous opportunity to contribute to your vision. My passion for coding is matched only by my commitment to collaboration and continuous learning.<br>Let’s connect to explore how my skills can help elevate your projects and achieve your goals. I’m excited about the possibility of working together to create something extraordinary!<br><br>GOOD LUCK</h4>
+<h3 align="left">WHO AM I ?<br><br>Talented and experienced Full stack developer with 7+ years of experience executing with a lot of diverse skills. Experience has taught me to take accessibility and responsiveness seriously, and I am excited to continue my career at Thrive Web Designs with a focus on making WordPress site developments easily accessible, completely responsive, and intuitive for users.<br>I see a tremendous opportunity to contribute to your vision. My passion for coding is matched only by my commitment to collaboration and continuous learning.<br>Let’s connect to explore how my skills can help elevate your projects and achieve your goals. I’m excited about the possibility of working together to create something extraordinary!<br><br>GOOD LUCK</h3>
 
 ###
 
