@@ -1,11 +1,15 @@
-<h2 align="left">Welcome to Ghost's github</h2>
+<h1 align="center">Welcome to github</h1>
 
 ###
-<h3>WHO AM I ?<br>
-Talented and experienced Full stack developer with 7+ years of experience executing with a lot of diverse skills. Experience has taught me to take accessibility and responsiveness seriously, and I am excited to continue my career at Thrive Web Designs with a focus on making WordPress site developments easily accessible, completely responsive, and intuitive for users.
-Let’s connect to explore how my skills can help elevate your projects and achieve your goals. I’m excited about the possibility of working together to create something extraordinary!<br>
-<b>Good Luck</b>
-</h3>
+
+<img align="left" height="271" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<h4 align="left">WHO AM I ?<br><br>Talented and experienced Full stack developer with 7+ years of experience executing with a lot of diverse skills. Experience has taught me to take accessibility and responsiveness seriously, and I am excited to continue my career at Thrive Web Designs with a focus on making WordPress site developments easily accessible, completely responsive, and intuitive for users.<br>I see a tremendous opportunity to contribute to your vision. My passion for coding is matched only by my commitment to collaboration and continuous learning.<br>Let’s connect to explore how my skills can help elevate your projects and achieve your goals. I’m excited about the possibility of working together to create something extraordinary!<br><br>GOOD LUCK</h4>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="70" alt="javascript logo"  />
   <img width="18" />
@@ -65,6 +69,12 @@ Let’s connect to explore how my skills can help elevate your projects and achi
   </a>
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="telegram logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="linkedin logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
 </div>
 
 ###
