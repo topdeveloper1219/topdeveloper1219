@@ -57,8 +57,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="70" alt="c logo"  />
 <img width="18" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="70" alt="firebase logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spl/spl-original.svg" height="70" alt="sql logo"  />
+
 </div>
 
 ###
